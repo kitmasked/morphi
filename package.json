@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@storybook/preset-scss": "^1.0.3",
+    "css-loader": "^6.5.1",
+    "sass": "^1.45.1",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^3.3.1"
+  }
+}
